@@ -1,6 +1,6 @@
 # Cpp-learning
 
-# C++ Practice - Loop Lab
+# C++ Practice
 
 C++ loop practice programs divided into three levels: Beginner, Intermediate, and Challenge.
 
